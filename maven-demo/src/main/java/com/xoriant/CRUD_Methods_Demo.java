@@ -29,7 +29,7 @@ public class CRUD_Methods_Demo {
 		
 		Employee e3=new Employee(); // java object
 	
-		e3.setEmpName("James");
+		e3.setEmpName("James2");
 		e3.setSalary(474665);
 		
 		
