@@ -18,7 +18,7 @@ public class CRUD_Methods_Demo {
 		
 		Employee e1=new Employee(); // java object
 		
-		e1.setEmpName("Praveen");
+		e1.setEmpName("Praveen1");
 		e1.setSalary(9865755);
 		
 		Employee e2=new Employee(); // java object
